@@ -8,4 +8,4 @@
 
 ![7C0762E2-DC49-4E6C-AD69-0B14DB2530D7](https://user-images.githubusercontent.com/74137008/115740050-6b5dde80-a3c9-11eb-96fb-79c1de54d136.png)
 
-上記スクリーンショットはAppleに申請中のアプリです。
+上記スクリーンショットはAppleに申請中のアプリ(SimpleBudgetApp)です。
